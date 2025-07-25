@@ -31,12 +31,9 @@ const About = () => {
 
         <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
           <div className="space-y-6">
-            <p className="text-lg leading-relaxed">I'm a dedic</p>
             <p className="text-lg leading-relaxed">
-              When I'm not coding, you'll find me contributing to open-source projects, 
-              mentoring junior developers, or exploring the latest in web technologies. 
-              I believe in writing code that's not just functional, but elegant and maintainable.
-            </p>
+          </p>
+            <p className="text-lg leading-relaxed">When I'm not coding, you'll find me contributing to open-source projects, mentoring junior developers, exploring the latest in web technologies — or learning new languages just for fun. I believe in writing code that's not only functional, but also elegant, maintainable, and built with intention.</p>
           </div>
 
           <div className="grid grid-cols-2 gap-4">
