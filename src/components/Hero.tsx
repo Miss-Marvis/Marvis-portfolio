@@ -24,7 +24,16 @@ const Hero = () => {
           Available for new opportunities
         </Badge>
         
-        <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-code-gradient bg-clip-text text-transparent">Wondikom Marvis</h1>
+        <div className="relative mb-6">
+          <h1 className="text-5xl md:text-7xl font-bold bg-code-gradient bg-clip-text text-transparent">Wondikom Marvis</h1>
+          <div className="absolute -top-4 -right-4 w-24 h-24 md:w-32 md:h-32 rounded-full border-4 border-primary/70 bg-transparent overflow-hidden">
+            <img 
+              src="/lovable-uploads/216232d2-b26b-47a8-bb37-902747120cd6.png" 
+              alt="Wondikom Marvis" 
+              className="w-full h-full object-cover"
+            />
+          </div>
+        </div>
         
         <h2 className="text-xl md:text-2xl text-muted-foreground mb-8 font-mono">Frontend Developer & Language enthusiast</h2>
         
