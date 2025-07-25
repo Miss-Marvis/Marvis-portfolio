@@ -2,7 +2,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Code, Coffee, Lightbulb, Rocket } from "lucide-react";
 const About = () => {
-  const skills = ["HTML", "CSS", "JavaScript (Procedural approach)", "Tailwind CSS", "Styled Components", "React.js", "Next.js"];
+  const skills = ["HTML", "CSS", "JavaScript", "Tailwind CSS", "Styled Components", "React.js", "Next.js"];
   const highlights = [{
     icon: Code,
     title: "Clean Code Advocate",
