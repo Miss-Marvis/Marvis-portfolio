@@ -27,9 +27,9 @@ const Hero = () => {
         <div className="flex flex-col items-center mb-6">
           <div className="w-32 h-32 md:w-40 md:h-40 rounded-full border-4 border-primary/70 bg-transparent overflow-hidden mb-4">
             <img 
-              src="/lovable-uploads/216232d2-b26b-47a8-bb37-902747120cd6.png" 
+              src="/lovable-uploads/3ad4f661-a400-4570-827f-34256a2a2a65.png" 
               alt="Wondikom Marvis" 
-              className="w-full h-full object-cover"
+              className="w-full h-full object-cover object-top"
             />
           </div>
           <h1 className="text-5xl md:text-7xl font-bold bg-code-gradient bg-clip-text text-transparent">Wondikom Marvis</h1>
