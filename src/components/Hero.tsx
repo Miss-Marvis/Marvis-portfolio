@@ -27,7 +27,7 @@ const Hero = () => {
         </Badge>
         
         <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-code-gradient bg-clip-text text-transparent">
-          Alex Developer
+          Marvis wondikom
         </h1>
         
         <h2 className="text-xl md:text-2xl text-muted-foreground mb-8 font-mono">
